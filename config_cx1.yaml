@@ -1,0 +1,19 @@
+# Configuration file
+
+CX1_tenant: tenant
+CX1_clientid: testclient
+CX1_secret: wTq8GS5mkJ07ALOocT60URMN9HdN
+CX1_proxy: 
+CX1_api_url: https://eu.ast.checkmarx.net/api
+
+# email Configuration
+SMTP_server: 
+SMTP_port: 
+SMTP_tls: 
+SMTP_user: 
+SMTP_password: 
+Email_from: from@org.com
+Email_subject: SCA vulnerabilities alert
+
+
+
